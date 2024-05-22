@@ -1,0 +1,40 @@
+
+.flower-list {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+    padding: 20px;
+}
+
+.flower-card {
+    background-color: #f8f8f8;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    cursor: pointer; 
+    transition: transform 0.2s ease; 
+    width: 200px; 
+    text-align: center;
+    margin: 10px; 
+}
+
+.flower-card img {
+    width: 100%; 
+    height: auto; 
+}
+
+.flower-card h2 {
+    font-size: 1.5rem; 
+    margin: 10px 0; 
+    color: #000000; 
+}
+
+.flower-card p.flower-price {
+    font-size: 1.2rem; 
+    color: #040404; 
+}
+
+.flower-card:hover {
+    transform: scale(1.05); 
+}

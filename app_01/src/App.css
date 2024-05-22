@@ -1,0 +1,161 @@
+body {
+  font-family: 'Freeman', sans-serif; 
+  color: #7cb15f; 
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  height: 3rem;
+  background-color: #295a29;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  text-align: center; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+
+
+.featured-flower {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; 
+  background-color: #90a955;
+  width: 95%; 
+  margin: 40px auto; 
+  height: 50vh; 
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 16px; 
+  box-shadow: 0 4px 8px rgba(224, 15, 15, 0.1); 
+}
+
+
+.footer-flower
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  background-color: #90a955;
+  width: 95%; 
+  margin: 40px auto; 
+  height: 50vh; 
+  padding: 100px;
+  box-sizing: border-box;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(224, 15, 15, 0.1); 
+
+}
+
+
+.featured-flower-text {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.featured-flower-text2 {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+  color: 287c59;
+  align-self: flex-end; 
+  color: #0a0a0a;
+}
+
+
+.featured-flower-text h2 {
+  font-size: 6rem;
+  margin-bottom: 0.1rem; 
+  color: #141414;
+}
+
+
+.featured-flower-text h3 {
+  font-size: 2rem;
+  margin-top: 0.1rem; 
+  color: #101110;
+}
+
+
+.featured-flower-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%; 
+  max-height: 80%; 
+}
+
+
+.featured-flower-image img {
+  width: auto; 
+  height: auto; 
+  max-width: 100%; 
+  max-height: 100%; 
+  object-fit: contain; 
+  border-radius: 8px;
+}
+
+
+main {
+  padding: 20px;
+}
+
+.best-seller-heading {
+  text-align: center; 
+  margin-bottom: 20px; 
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 3rem;
+  font-family: 'Freeman', sans-serif; 
+}
+
+
+.featured-flower2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2b5b3f;
+  width: 80%; 
+  margin: 40px auto; 
+  height: 50vh; 
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(224, 15, 15, 0.1); 
+}
+
+
+.sale-text {
+  font-size: 2rem;
+  margin-left: 20px; 
+}
+
+
+.centered-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%; 
+  width: 50rem;
+}
+
+.sale-text {
+  font-size: 5rem;
+  margin-right: 20px;
+  margin-left: 0;
+}
+
+.centered-container img {
+  max-width: 60rem;
+  max-height: 60rem;
+}
+
+.pic {
+  margin: 0 100px;
+}

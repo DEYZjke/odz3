@@ -1,0 +1,62 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "name": "Peashooter",
+            "price": 325,
+            "image": "/images/Peashoote.png",
+            "Desc":"Peashooters are your first line of defense. They shoot peas at attacking zombies."
+        },
+        {
+            "id": 2,
+            "name": "clever",
+            "price": 120,
+            "image": "/images/clever.png",
+            "Desc":"Blovers blow away all balloon zombies and fog."
+        },
+        {
+            "id": 3,
+            "name": "Snow Pea",
+            "price": 400,
+            "image": "/images/Snow Pea.png",
+            "Desc":"Snow Peas shoot frozen peas that damage and slow the enemy."
+        },
+        {
+            "id": 4,
+            "name": "Wall-nut",
+            "price": 50,
+            "image": "/images/Wall-nut.png",
+            "Desc":"Tall-nuts are heavy-duty wall plants that can't be vaulted over."
+        },
+        {
+            "id": 5,
+            "name": "Potato Mine",
+            "price": 125,
+            "image": "/images/Potato Mine.png",
+            "Desc":"Potato Mines pack a powerful punch, but they need a while to arm themselves. You should plant them ahead of zombies. They will explode on contact."
+        },
+        {
+            "id": 6,
+            "name": "Sunflower",
+            "price": 35,
+            "image": "/images/Sunflower.png",
+            "Desc":"Sunflowers are essential for you to produce extra sun. Try planting as many as you can!"
+        },
+        {
+            "id": 7,
+            "name": "Jalapeno",
+            "price": 35,
+            "image": "/images/Jalapeno.png",
+            "Desc":"Jalapenos destroy an entire lane of zombies"
+            
+        },
+        {
+            "id": 8,
+            "name": "Cherry Bomb",
+            "price": 600,
+            "image": "/images/Cherry Bomb.png",
+            "Desc":"Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies."
+            
+        }
+    ]
+}
